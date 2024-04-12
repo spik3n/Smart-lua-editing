@@ -8,7 +8,8 @@ Welcome to the 'Smart Lua Editing' tool, a graphical user interface application 
 
 - **Open `.ini` Files**: Easily browse and open `.ini` files for editing.
 - **Edit and Save**: Modify `.ini` files using a multiline text editor and save changes with ease.
-- **User-Friendly Interface**: All functionalities are accessible via a straightforward graphical interface.
+- **Resizable Window**: Adjust the size of the application window according to your preferences, enhancing usability and visibility.
+- **User-Friendly Interface**: All functionalities are accessible via a straightforward graphical interface, designed to provide a seamless user experience.
 
 <img src=https://i.imgur.com/0Ayen9t.png>
 <img src=https://i.imgur.com/J3fFCMs.png>
