@@ -1,5 +1,7 @@
 # Smart Lua Editing
 
+<img src=https://i.imgur.com/iEFX8TV.png>
+
 Welcome to the 'Smart Lua Editing' tool, a graphical user interface application designed for efficiently editing .ini files within a Lua environment. Tailored specifically for MacroQuest users, this tool allows you to manage configuration files while keeping an eye on in-game events. It leverages imgui for its GUI components and integrates seamlessly with mq for MacroQuest, providing an intuitive interface for file management.
 
 ## Features
@@ -7,6 +9,9 @@ Welcome to the 'Smart Lua Editing' tool, a graphical user interface application 
 - **Open `.ini` Files**: Easily browse and open `.ini` files for editing.
 - **Edit and Save**: Modify `.ini` files using a multiline text editor and save changes with ease.
 - **User-Friendly Interface**: All functionalities are accessible via a straightforward graphical interface.
+
+<img src=https://i.imgur.com/0Ayen9t.png>
+<img src=https://i.imgur.com/J3fFCMs.png>
 
 ## Installation
 Download the Script: Download the Smart lua editing folder from this repository.
